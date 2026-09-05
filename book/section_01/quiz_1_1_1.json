@@ -11,13 +11,13 @@
             },
             {
                 "answer": "1",
-                "correct": true,
-                "feedback": "Correct!"
+                "correct": false,
+                "feedback": "False."
             },
             {
                 "answer": "2",
-                "correct": false,
-                "feedback": "False."
+                "correct": true,
+                "feedback": "Correct!"
             },
             {
                 "answer": "3",
